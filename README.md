@@ -35,10 +35,10 @@ The LLNL Automized Surface Titration Model (L-ASTM) is a community data-driven s
             &nbsp;&ensp;&emsp;&emsp;&emsp;(+ correspondig SD). Also, you can see wheighted average of capacitance and the corresponding SD <br/>
             &nbsp;&ensp;&emsp;&emsp;&emsp;if you used CCM.<br/>
 	    
-	&emsp;ii)                   &emsp;&emsp;'Dataset_Fitting' folder contains a simulation result which the model fitted the entire datasets by using weigthed <br/>
-            &nbsp;&ensp;&emsp;&emsp;&emsp;pKa1 and pKa2 (+ capacitance in CCM). You can see that the used pKa1 and pKa2 (+ capacitance) values are identical to<br/>
-            &nbsp;&ensp;&emsp;&emsp;&emsp;the values in '0.Simulation_Summary.csv' file. The figure in that folder, 'Charge_orgdata_Fitting.png', shows the data<br/>
-            &nbsp;&ensp;&emsp;&emsp;&emsp;fitting results.
+	&emsp;ii)                   &emsp;&emsp;'Dataset_Fitting' folder contains a simulation result which the model fitted the entire datasets  <br/>
+            &nbsp;&ensp;&emsp;&emsp;&emsp;by using weigthed pKa1 and pKa2 (+ capacitance in CCM). You can see that the used pKa1 and pKa2 <br/>
+            &nbsp;&ensp;&emsp;&emsp;&emsp;(+ capacitance) values are identical to the values in '0.Simulation_Summary.csv' file. <br/>
+            &nbsp;&ensp;&emsp;&emsp;&emsp;The figure in that folder, 'Charge_orgdata_Fitting.png', shows the data fitting results.<br/>
 
 # Troubleshooting, feedback, and questions may be directed to:
 &emsp;&emsp;&emsp;i)   Sol-Chan Han (Email: han14@llnl.gov / hsc09@kaist.ac.kr)<br/>
