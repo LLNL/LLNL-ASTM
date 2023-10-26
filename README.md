@@ -30,8 +30,8 @@ The LLNL Automized Surface Titration Model (L-ASTM) is a community data-driven s
 9) When the simulation is done results are stored in two folders: 'individual_dataset_run' and 'Dataset_Fitting'<br/>
 
 	&emsp;i)                    &emsp;&emsp;'individual_dataset_run' folder contains simulations results for each individual dataset.<br/>
-            &nbsp;&ensp;&emsp;&emsp;&emsp;In that folder, you can find a summary of simulation results from '0.Simulation_Summary.csv' file.<br/>
-            &nbsp;&ensp;&emsp;&emsp;&emsp;When you open the '0.Simulation_Summary.csv' file, you can see weighted average of pKa1 and pKa2 (+ correspondig SD).<br/>
+            &nbsp;&ensp;&emsp;&emsp;&emsp;In that folder, you can find a summary of simulation results from '0.Simulation_Summary.csv' file.
+            &nbsp;&ensp;&emsp;&emsp;&emsp;When you open the '0.Simulation_Summary.csv' file, you can see weighted average of pKa1 and pKa2 (+ correspondig SD).
             &nbsp;&ensp;&emsp;&emsp;&emsp;Also, you can see wheighted average of capacitance and the corresponding SD if you used CCM.<br/>
             &nbsp;&ensp;&emsp;&emsp;&emsp;<br/>
 	    
