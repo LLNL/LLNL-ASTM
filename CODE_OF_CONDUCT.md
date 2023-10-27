@@ -1,12 +1,4 @@
----
-title: "Code of Conduct"
----
-
-A *code of conduct* defines standards for how to engage in a community. Such a file signals an inclusive environment that respects all contributions. It also outlines procedures for addressing problems between members of your project's community. The file is typically named in all-caps with underscores: `CODE_OF_CONDUCT.md`.
-
-Our example here is adapted from the website in the Attribution section below. It contains a few blanks `_____` where you fill in your project/repo/team's name and/or email address. For more information, see GitHub's advice for [adding a code of conduct to your project](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project).
-
-## Example Community Code of Conduct
+##  Community Code of Conduct
 
 ### Our Pledge
 
@@ -38,11 +30,11 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ### Scope
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the `_____` project or its community. Examples of representing the project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the project may be further defined and clarified by `_____` maintainers.
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing the project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the project may be further defined and clarified by project maintainers.
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at `_____` or the LLNL GitHub Admins at [github-admin@llnl.gov](mailto:github-admin@llnl.gov) . The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team or the LLNL GitHub Admins at [github-admin@llnl.gov](mailto:github-admin@llnl.gov) . The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project or organization's leadership.
 
