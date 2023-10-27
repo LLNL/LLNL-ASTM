@@ -46,6 +46,6 @@ The LLNL Automized Surface Titration Model (L-ASTM) is a community data-driven s
 &emsp;&emsp;&emsp;ii)  Mavrik Zavarin (Email: zavarin1@llnl.gov)<br/>
 
 # Release
-The code of this site is released under the MIT License. For more details, see the [LICENSE]() File.
+The code of this site is released under the MIT License. For more details, see the [LICENSE](https://github.com/LLNL/LLNL-ASTM/blob/main/LICENSE) File.
 
 LLNL-CODE-856359
