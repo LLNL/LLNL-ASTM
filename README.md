@@ -6,13 +6,14 @@ The LLNL Automized Surface Titration Model (L-ASTM) is a community data-driven s
 
 2) Unzip the file to ‘Desktop’ directory (or any desired directory). 
 
-3) Ensure all the following folders and programs are in the unziped folder
-	phreeqc-3.7.3-15968-x64 (folder) / Ferrihydrite_Potentiometric_Titration.csv (example database file) /
-	LLNL-ASTM_v1.ipynb / PEST.EXE / phreeqc.exe
+3) Ensure all the following folders and programs are in the unziped folder<br/>
+	&emsp;&emsp;&emsp;phreeqc-3.7.3-15968-x64 (folder) / Ferrihydrite_Potentiometric_Titration.csv (example database file) /<br/>
+	&emsp;&emsp;&emsp;LLNL-ASTM_v1.ipynb / PEST.EXE / phreeqc.exe
 
-4) Ensure LLNL-ASTM_v1.ipynb and potentiometirc titartion database file are in the same folder.
-	The exmaple database file is "Ferrihydrite_Potentiometric_Titration.csv".
-	The database file should have a CSV format and the structure of the database should be identical to the example file.
+4) Ensure LLNL-ASTM_v1.ipynb and potentiometirc titartion database file are in the same folder.<br/>
+	&emsp;&emsp;&emsp;The exmaple database file is "Ferrihydrite_Potentiometric_Titration.csv".<br/>
+	&emsp;&emsp;&emsp;The database file should have a CSV format and the structure of the database should be identical to <br/>
+	&emsp;&emsp;&emsp;the example file.
 
 5) Open "LLNL-ASTM_v1.ipynb" notebook.
 
