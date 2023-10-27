@@ -1,6 +1,6 @@
 ## Contributing Guidelines
 
-LLNL-ASTM is an open source project. We welcome contributions via pull requests as well as questions, feature requests, or bug reports via issues. Contact our team at [CONTACT_INFO](https://github.com/LLNL/LLNL-ASTM#troubleshooting-feedback-and-questions-may-be-directed-to) with any questions. Please also refer to our [code of conduct]([https://github.com/LLNL/.github/tree/master/community-health/CODE_OF_CONDUCT.md](https://github.com/LLNL/LLNL-ASTM/blob/main/CODE_OF_CONDUCT.md)).
+LLNL-ASTM is an open source project. We welcome contributions via pull requests as well as questions, feature requests, or bug reports via issues. Contact our team at [CONTACT_INFO](https://github.com/LLNL/LLNL-ASTM#troubleshooting-feedback-and-questions-may-be-directed-to) with any questions. Please also refer to our [code of conduct](https://github.com/LLNL/.github/tree/master/community-health/CODE_OF_CONDUCT.md).
 
 If you aren't a LLNL-ASTM developer at LLNL, you won't have permission to push new branches to the repository. First, you should create a fork. This will create your copy of the LLNL-ASTM repository and ensure you can push your changes up to GitHub and create PRs. LLNL-ASTM uses Travis for continuous integration tests. Our tests are automatically run against every new PR, and passing all tests is a requirement for merging your PR.
 
